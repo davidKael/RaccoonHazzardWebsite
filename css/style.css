@@ -1,0 +1,128 @@
+.famousRaccoonsTable td{
+    border:2px solid white;
+    padding: 2%;
+  }
+
+.famousRaccoonsTable{
+  width: 100%;
+}
+
+  .header h1
+  {
+      
+    color: white;
+      text-align: center;
+      background-color: black;
+      padding-top: 3%;
+      padding-bottom:  3%;
+      margin: 0%;
+      border: 5px solid rgb(49, 47, 47);
+  }
+
+  .header nav
+  {
+      background-color: rgb(45, 48, 68);
+      margin-bottom: 2%;
+      text-align: center;
+      padding: 0.2%;
+      
+  }
+  .header a
+  {
+    color: white;
+    text-decoration: none;  
+    padding-right: 2%;
+  }
+
+  .header a:hover
+  {
+    color: yellow;
+  }
+
+  :root{
+    color: white;
+    background: black url("/img/abandon-gd758097ac_1920.jpg") no-repeat fixed center;
+    background-size: cover;
+    font-size: 16px;
+  }
+
+  article{
+    background-color: rgba(0, 0, 0, 0.637);
+    border: 1px solid white;
+    margin: 3%;
+    width: 50%;
+
+  }
+
+  input{
+    background-color: black;
+    color: white;
+  }
+
+  .bustedBody
+  {
+    background-color: red;
+
+
+  }
+
+  .bustedBody article{
+    width: auto;
+  }
+
+.bustedBody section{
+  text-align: center;
+
+}
+.bustedBody table{
+
+  width: 100%;
+}
+
+
+
+.articlePart{
+  margin: 2%;
+}
+
+textarea{
+  width: 95%;
+  height: 30%;
+  resize: none;
+  background-color: black;
+  color: white;
+}
+
+article{
+  font-size: 0.95rem;
+}
+
+p{
+  font-size: 0.85em;
+}
+
+dt{
+  font-size: 0.90rem;
+}
+
+dl{
+  font-size: 0.80em;
+}
+
+ul{
+  font-size: 0.80em;
+}
+
+ol{
+  font-size: 0.90em;
+}
+
+article a{
+  color : white;
+}
+
+.badTone
+{
+    color: red;
+    
+}
